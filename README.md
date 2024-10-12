@@ -19,4 +19,5 @@ I am a researcher with over 7 years of experience in research and providing insi
 
 ## Projects
 1. [Northwind Suppliers]([https://pages.github.com/](https://github.com/ChrisAntococt471/Capston-Project-2---Northwind-Suppliers))
+
 The project contained an in-depth exploratory data analysis focusing on performance of product suppliers of a company called Northwind Traders to further improve efficiency.
