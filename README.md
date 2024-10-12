@@ -52,6 +52,6 @@ The aim of this notebook is to find the best stock listed in the S&P 500 index t
 
 6.[**Starbucks Review Exploratory Data Analysis**](https://github.com/ChrisAntococt471/Starbucks-Review-EDA)
 
-![](https://github.com/ChrisAntococt471/NVDA-Stock-Forecast/blob/main/NVDA%20IMAGE.png)
+![](https://github.com/ChrisAntococt471/Starbucks-Review-EDA/blob/main/CAFE.jpg)
 
 Starbucks Corporation is a well-known American multinational chain of coffeehouses and roastery reserves, with more than 80,000 stores worldwide. Despite being famous, apparently it suffers low rating reviews from customers in some areas, which needs to be addressed as soon as possible.This notebook's goal is to use Word Cloud and other text analysis tools to analyze customer reviews of various Starbucks shops in order to identify things that need improvement. We can conclude that people relatively like the products (in this case, the coffee) but have a lot of bad experience with customer service and cards.
