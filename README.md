@@ -1,4 +1,6 @@
 # Data Analyst
+[**085697135193**](https://wa.me/6285697135193) | [**LinkedIn**](https://www.linkedin.com/in/christianto-octiandi-269198113/)
+
 
 ## Summary 
 I am a researcher with over 7 years of experience in research and providing insights, utilizing both quantitative and qualitative approaches, in a fast-paced working environment like media. I have worked on various data analysis projects using tools like Excel, Python, and MySQL. I specialize in transforming complex data sets into actionable insights and creating data visualization.
