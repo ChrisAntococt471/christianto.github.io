@@ -17,6 +17,7 @@ I am a researcher with over 7 years of experience in research and providing insi
 -	Determine the data visualization types for daily newspaper
 
 ## Projects
-1. [NORTHWIND SUPPLIERS]([https://pages.github.com/](https://github.com/ChrisAntococt471/Capston-Project-2---Northwind-Suppliers))
+1. [**NORTHWIND SUPPLIERS**]([https://pages.github.com/](https://github.com/ChrisAntococt471/Capston-Project-2---Northwind-Suppliers))
 
+![](https://myoctocat.com/assets/images/base-octocat.svg)
 The project contained an in-depth exploratory data analysis focusing on performance of product suppliers of a company called Northwind Traders to further improve efficiency.
