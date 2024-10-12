@@ -19,13 +19,13 @@ I am a researcher with over 7 years of experience in research and providing insi
 ## Projects
 1. [**NORTHWIND SUPPLIERS**](https://github.com/ChrisAntococt471/Capston-Project-2---Northwind-Suppliers)
 
-![](https://github.com/ChrisAntococt471/christianto.github.io/blob/main/output.jpg)
+![](https://raw.githubusercontent.com/ChrisAntococt471/christianto.github.io/refs/heads/main/output.jpg)
 
 The project contained an in-depth exploratory data analysis focusing on performance of product suppliers of a company called Northwind Traders to further improve efficiency.
 
 2.[**CLV PREDICTION MODEL**](https://github.com/ChrisAntococt471/Capstone-Project-3---CLV-Prediction)
 
-![](https://github.com/ChrisAntococt471/christianto.github.io/blob/main/output.jpg)
+![](https://raw.githubusercontent.com/ChrisAntococt471/christianto.github.io/refs/heads/main/boostiny_blog_-_17-May.png)
 
 The project focused on predicting Customer Lifetime Value (CLV) value of PT ABC, a company engaged in motor vehicle insurance to better recognize the value of its customers, so that PT ABC is able to prepare better marketing strategies and offers.
 
@@ -46,12 +46,12 @@ Perform in-depth exploratory data analysis of video games sales data to have a b
 
 5.[**NVDA Stock Forecast**](https://github.com/ChrisAntococt471/NVDA-Stock-Forecast)
 
-![](https://github.com/ChrisAntococt471/NVDA-Stock-Forecast/blob/main/NVDA%20IMAGE.png)
+![](https://raw.githubusercontent.com/ChrisAntococt471/NVDA-Stock-Forecast/refs/heads/main/NVDA%20IMAGE.png)
 
 The aim of this notebook is to find the best stock listed in the S&P 500 index to invest in and then predict the said stock's future price with determined models. The stock selection is based on weight, as we go for the safest stocks to invest, meaning we go for blue-chip stocks. In the end, we decided that the rolling ARIMA model is the best fit for predicting the price with around a 2% error rate.
 
 6.[**Starbucks Review Exploratory Data Analysis**](https://github.com/ChrisAntococt471/Starbucks-Review-EDA)
 
-![](https://github.com/ChrisAntococt471/Starbucks-Review-EDA/blob/main/CAFE.jpg)
+![](https://raw.githubusercontent.com/ChrisAntococt471/Starbucks-Review-EDA/refs/heads/main/CAFE.jpg)
 
 Starbucks Corporation is a well-known American multinational chain of coffeehouses and roastery reserves, with more than 80,000 stores worldwide. Despite being famous, apparently it suffers low rating reviews from customers in some areas, which needs to be addressed as soon as possible.This notebook's goal is to use Word Cloud and other text analysis tools to analyze customer reviews of various Starbucks shops in order to identify things that need improvement. We can conclude that people relatively like the products (in this case, the coffee) but have a lot of bad experience with customer service and cards.
