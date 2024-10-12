@@ -22,3 +22,5 @@ I am a researcher with over 7 years of experience in research and providing insi
 ![](https://github.com/ChrisAntococt471/christianto.github.io/blob/main/output.jpg)
 
 The project contained an in-depth exploratory data analysis focusing on performance of product suppliers of a company called Northwind Traders to further improve efficiency.
+
+2.[**NORTHWIND SUPPLIERS**](https://github.com/ChrisAntococt471/Capston-Project-2---Northwind-Suppliers)
