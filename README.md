@@ -44,7 +44,7 @@ Successfully made a model that has a very good error rate and identified several
 
 4. [**Video Games Exploratory Data Analysis**](https://github.com/ChrisAntococt471/Video-Games-EDA)
 
-![](https://api-v1.purwadhika.com/files/user-portfolios/Screenshot%202024-08-12%20135737.png-1723445868460.png)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxF-Zc94OcKrMlO_snXt9k0u2bRbGF4F8bPg&s)
 
 Perform in-depth exploratory data analysis of video games sales data to have a better understanding of video games market. 
 
