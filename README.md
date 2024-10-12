@@ -23,7 +23,7 @@ I am a researcher with over 7 years of experience in research and providing insi
 
 The project contained an in-depth exploratory data analysis focusing on performance of product suppliers of a company called Northwind Traders to further improve efficiency.
 
-2.[**CLV PREDICTION MODEL**](https://github.com/ChrisAntococt471/Capstone-Project-3---CLV-Prediction)
+2. [**CLV PREDICTION MODEL**](https://github.com/ChrisAntococt471/Capstone-Project-3---CLV-Prediction)
 
 ![](https://raw.githubusercontent.com/ChrisAntococt471/christianto.github.io/refs/heads/main/boostiny_blog_-_17-May.png)
 
@@ -32,7 +32,7 @@ The project focused on predicting Customer Lifetime Value (CLV) value of PT ABC,
 Based on the model evaluation results, in this case, the most optimal model to use to predict CLV value is the Random Forest model after hyperparameter tuning.
 Of all the variables, the Number of Policies and Monthly Premium Auto variables are the most influential variables on the CLV value.
 
-3.[**Machine Learning Model for Predicting Used Car Price in UK**](https://github.com/PurwadhikaDev/DataRangersTeam_JC_DS_VL_05_FinalProject)
+3. [**Machine Learning Model for Predicting Used Car Price in UK**](https://github.com/PurwadhikaDev/DataRangersTeam_JC_DS_VL_05_FinalProject)
 
 ![](https://raw.githubusercontent.com/PurwadhikaDev/DataRangersTeam_JC_DS_VL_05_FinalProject/refs/heads/main/Picture/jpeg%20awal.jpg)
 
@@ -40,7 +40,7 @@ The project used machine learning methods to assess the price of used cars for P
 
 Successfully made a model that has a very good error rate and identified several key features, such as the importance of car capacity and efficiency.
 
-4.[**Video Games Exploratory Data Analysis**](https://github.com/ChrisAntococt471/Video-Games-EDA)
+4. [**Video Games Exploratory Data Analysis**](https://github.com/ChrisAntococt471/Video-Games-EDA)
 
 ![](https://api-v1.purwadhika.com/files/user-portfolios/Screenshot%202024-08-12%20135737.png-1723445868460.png)
 
@@ -48,7 +48,7 @@ Perform in-depth exploratory data analysis of video games sales data to have a b
 
 Several key findings are that video game analysis is heavily dependent on North American sales, and action genres are dominating the market.
 
-5.[**NVDA Stock Forecast**](https://github.com/ChrisAntococt471/NVDA-Stock-Forecast)
+5. [**NVDA Stock Forecast**](https://github.com/ChrisAntococt471/NVDA-Stock-Forecast)
 
 ![](https://raw.githubusercontent.com/ChrisAntococt471/NVDA-Stock-Forecast/refs/heads/main/NVDA%20IMAGE.png)
 
@@ -56,7 +56,7 @@ The aim of this notebook is to find the best stock listed in the S&P 500 index t
 
 In the end, we decided that the rolling ARIMA model is the best fit for predicting the price with around a 2% error rate.
 
-6.[**Starbucks Review Exploratory Data Analysis**](https://github.com/ChrisAntococt471/Starbucks-Review-EDA)
+6. [**Starbucks Review Exploratory Data Analysis**](https://github.com/ChrisAntococt471/Starbucks-Review-EDA)
 
 ![](https://raw.githubusercontent.com/ChrisAntococt471/Starbucks-Review-EDA/refs/heads/main/CAFE.jpg)
 
@@ -65,3 +65,21 @@ Starbucks Corporation is a well-known American multinational chain of coffeehous
 This notebook's goal is to use Word Cloud and other text analysis tools to analyze customer reviews of various Starbucks shops in order to identify things that need improvement.
 
 We can conclude that people relatively like the products (in this case, the coffee) but have a lot of bad experience with customer service and cards.
+
+## Certification
+
+1. [**Purwadhika Data Science and Machine Learning**](https://drive.google.com/file/d/1RtprjswO63Tdz0szy-3tmp2NpJSVU7hx/view)
+
+2. [**SQL BASIC - HACKERRANK**](https://www.hackerrank.com/certificates/3938657c4aa1?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate)
+
+## Skills
+
+1. Microsoft Office (Word, Excel, PowerPoint)
+2. English
+3. Arianna
+4. Data Analysis
+5. Data Visualization
+6. Python
+7. MySQL
+8. Machine Learning
+9. Power BI
