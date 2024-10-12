@@ -19,13 +19,13 @@ I am a researcher with over 7 years of experience in research and providing insi
 -	Determine the data visualization types for daily newspaper
 
 ## Projects
-1. [**NORTHWIND SUPPLIERS**](https://github.com/ChrisAntococt471/Capston-Project-2---Northwind-Suppliers)
+1. [**Northwind Suppliers Exploratory Data Analysis**](https://github.com/ChrisAntococt471/Capston-Project-2---Northwind-Suppliers)
 
 ![](https://raw.githubusercontent.com/ChrisAntococt471/christianto.github.io/refs/heads/main/output.jpg)
 
 The project contained an in-depth exploratory data analysis focusing on performance of product suppliers of a company called Northwind Traders to further improve efficiency.
 
-2. [**CLV PREDICTION MODEL**](https://github.com/ChrisAntococt471/Capstone-Project-3---CLV-Prediction)
+2. [**CLV Prediction Model**](https://github.com/ChrisAntococt471/Capstone-Project-3---CLV-Prediction)
 
 ![](https://raw.githubusercontent.com/ChrisAntococt471/christianto.github.io/refs/heads/main/boostiny_blog_-_17-May.png)
 
