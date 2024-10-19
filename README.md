@@ -21,13 +21,13 @@ I am a researcher with over 7 years of experience in research and providing insi
 ## Projects
 - [**Northwind Suppliers Exploratory Data Analysis**](https://github.com/ChrisAntococt471/Capston-Project-2---Northwind-Suppliers)
 
-![](https://raw.githubusercontent.com/ChrisAntococt471/christianto.github.io/refs/heads/main/output.jpg)
+<img src="https://raw.githubusercontent.com/ChrisAntococt471/christianto.github.io/refs/heads/main/output.jpg" width="300">
 
 The project contained an in-depth exploratory data analysis focusing on performance of product suppliers of a company called Northwind Traders to further improve efficiency.
 
 - [**CLV Prediction Model**](https://github.com/ChrisAntococt471/Capstone-Project-3---CLV-Prediction)
 
-![](https://raw.githubusercontent.com/ChrisAntococt471/christianto.github.io/refs/heads/main/boostiny_blog_-_17-May.png)
+<img src="https://raw.githubusercontent.com/ChrisAntococt471/christianto.github.io/refs/heads/main/boostiny_blog_-_17-May.png" width="300">
 
 The project focused on predicting Customer Lifetime Value (CLV) value of PT ABC, a company engaged in motor vehicle insurance to better recognize the value of its customers, so that PT ABC is able to prepare better marketing strategies and offers.
 
@@ -36,7 +36,7 @@ Of all the variables, the Number of Policies and Monthly Premium Auto variables 
 
 - [**Machine Learning Model for Predicting Used Car Price in UK**](https://github.com/PurwadhikaDev/DataRangersTeam_JC_DS_VL_05_FinalProject)
 
-![](https://raw.githubusercontent.com/PurwadhikaDev/DataRangersTeam_JC_DS_VL_05_FinalProject/refs/heads/main/Picture/jpeg%20awal.jpg)
+<img src="https://raw.githubusercontent.com/PurwadhikaDev/DataRangersTeam_JC_DS_VL_05_FinalProject/refs/heads/main/Picture/jpeg%20awal.jpg" width="300">
 
 The project used machine learning methods to assess the price of used cars for PT ABC, a used car showroom company, to provide a better assessment of the price of used cars. 
 
@@ -44,7 +44,7 @@ Successfully made a model that has a very good error rate and identified several
 
 - [**Video Games Exploratory Data Analysis**](https://github.com/ChrisAntococt471/Video-Games-EDA)
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxF-Zc94OcKrMlO_snXt9k0u2bRbGF4F8bPg&s)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxF-Zc94OcKrMlO_snXt9k0u2bRbGF4F8bPg&s" width="300">
 
 Perform in-depth exploratory data analysis of video games sales data to have a better understanding of video games market. 
 
@@ -52,7 +52,7 @@ Several key findings are that video game analysis is heavily dependent on North 
 
 - [**NVDA Stock Forecast**](https://github.com/ChrisAntococt471/NVDA-Stock-Forecast)
 
-![](https://raw.githubusercontent.com/ChrisAntococt471/NVDA-Stock-Forecast/refs/heads/main/NVDA%20IMAGE.png)
+<img src="https://raw.githubusercontent.com/ChrisAntococt471/NVDA-Stock-Forecast/refs/heads/main/NVDA%20IMAGE.png" width="300">
 
 The aim of this notebook is to find the best stock listed in the S&P 500 index to invest in and then predict the said stock's future price with determined models. The stock selection is based on weight, as we go for the safest stocks to invest, meaning we go for blue-chip stocks. 
 
@@ -60,7 +60,7 @@ In the end, we decided that the rolling ARIMA model is the best fit for predicti
 
 - [**Starbucks Review Exploratory Data Analysis**](https://github.com/ChrisAntococt471/Starbucks-Review-EDA)
 
-![](https://raw.githubusercontent.com/ChrisAntococt471/Starbucks-Review-EDA/refs/heads/main/CAFE.jpg)
+<img src="https://raw.githubusercontent.com/ChrisAntococt471/Starbucks-Review-EDA/refs/heads/main/CAFE.jpg" width="300">
 
 Starbucks Corporation is a well-known American multinational chain of coffeehouses and roastery reserves, with more than 80,000 stores worldwide. Despite being famous, apparently it suffers low rating reviews from customers in some areas, which needs to be addressed as soon as possible. 
 
