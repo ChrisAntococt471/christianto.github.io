@@ -25,6 +25,8 @@ I am a researcher with over 7 years of experience in research and providing insi
 
 The project contained an in-depth exploratory data analysis focusing on performance of product suppliers of a company called Northwind Traders to further improve efficiency.
 
+The tools used in this project are ***MySQL*** and ***Jupyter Notebook***.
+
 - [**CLV Prediction Model**](https://github.com/ChrisAntococt471/Capstone-Project-3---CLV-Prediction)
 
 <img src="https://raw.githubusercontent.com/ChrisAntococt471/christianto.github.io/refs/heads/main/boostiny_blog_-_17-May.png" width="300">
@@ -34,6 +36,8 @@ The project focused on predicting Customer Lifetime Value (CLV) value of PT ABC,
 Based on the model evaluation results, in this case, the most optimal model to use to predict CLV value is the Random Forest model after hyperparameter tuning.
 Of all the variables, the Number of Policies and Monthly Premium Auto variables are the most influential variables on the CLV value.
 
+The tools used in this project is ***Jupyter Notebook***.
+
 - [**Machine Learning Model for Predicting Used Car Price in UK**](https://github.com/PurwadhikaDev/DataRangersTeam_JC_DS_VL_05_FinalProject)
 
 <img src="https://raw.githubusercontent.com/PurwadhikaDev/DataRangersTeam_JC_DS_VL_05_FinalProject/refs/heads/main/Picture/jpeg%20awal.jpg" width="300">
@@ -42,13 +46,17 @@ The project used machine learning methods to assess the price of used cars for P
 
 Successfully made a model that has a very good error rate and identified several key features, such as the importance of car capacity and efficiency.
 
-- [**Video Games Exploratory Data Analysis**](https://github.com/ChrisAntococt471/Video-Games-EDA)
+The tools used in this project is ***Jupyter Notebook***
+
+- [**Video Games Exploratory Data Analysis**](https://github.com/ChrisAntococt471/Video-Games-EDA) [(**Power BI Dashboard Link**)](https://app.webdashboard.com/en/report?workspaceId=4123&reportId=12045&filter=)
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxF-Zc94OcKrMlO_snXt9k0u2bRbGF4F8bPg&s" width="300">
 
 Perform in-depth exploratory data analysis of video games sales data to have a better understanding of video games market. 
 
 Several key findings are that video game analysis is heavily dependent on North American sales, and action genres are dominating the market.
+
+The tools used in this project are ***Jupyter Notebook*** and ***Power BI***.
 
 - [**NVDA Stock Forecast**](https://github.com/ChrisAntococt471/NVDA-Stock-Forecast)
 
@@ -57,6 +65,8 @@ Several key findings are that video game analysis is heavily dependent on North 
 The aim of this notebook is to find the best stock listed in the S&P 500 index to invest in and then predict the said stock's future price with determined models. The stock selection is based on weight, as we go for the safest stocks to invest, meaning we go for blue-chip stocks. 
 
 In the end, we decided that the rolling ARIMA model is the best fit for predicting the price with around a 2% error rate.
+
+The tools used in this project is ***Jupyter Notebook***
 
 - [**Starbucks Review Exploratory Data Analysis**](https://github.com/ChrisAntococt471/Starbucks-Review-EDA)
 
@@ -67,6 +77,8 @@ Starbucks Corporation is a well-known American multinational chain of coffeehous
 This notebook's goal is to use Word Cloud and other text analysis tools to analyze customer reviews of various Starbucks shops in order to identify things that need improvement.
 
 We can conclude that people relatively like the products (in this case, the coffee) but have a lot of bad experience with customer service and cards.
+
+The tools used in this project is ***Jupyter Notebook***
 
 ## Certification
 
