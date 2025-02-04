@@ -48,7 +48,7 @@ Successfully made a model that has a very good error rate and identified several
 
 The tools used in this project is ***Jupyter Notebook***
 
-- [**Video Games Exploratory Data Analysis**](https://github.com/ChrisAntococt471/Video-Games-EDA) [(**Tableau Dashboard Link**)]([https://app.webdashboard.com/en/report?workspaceId=4123&reportId=12045&filter=](https://public.tableau.com/views/VideoGamesDashboard_17386750633570/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+- [**Video Games Exploratory Data Analysis**](https://github.com/ChrisAntococt471/Video-Games-EDA) [(**Tableau Dashboard Link**)](https://public.tableau.com/views/VideoGamesDashboard_17386750633570/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxF-Zc94OcKrMlO_snXt9k0u2bRbGF4F8bPg&s" width="300">
 
