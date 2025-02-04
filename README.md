@@ -56,7 +56,7 @@ Perform in-depth exploratory data analysis of video games sales data to have a b
 
 Several key findings are that video game analysis is heavily dependent on North American sales, and action genres are dominating the market.
 
-The tools used in this project are ***Jupyter Notebook*** and ***Power BI***.
+The tools used in this project are ***Jupyter Notebook*** and ***Tableau***.
 
 - [**NVDA Stock Forecast**](https://github.com/ChrisAntococt471/NVDA-Stock-Forecast)
 
