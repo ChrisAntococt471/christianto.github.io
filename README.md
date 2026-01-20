@@ -3,11 +3,18 @@
 
 
 ## Summary 
-I am a researcher with over 7 years of experience in research and providing insights, utilizing both quantitative and qualitative approaches, in a fast-paced working environment like media. I have worked on various data analysis projects using tools like Excel, Python, and MySQL. I specialize in transforming complex data sets into actionable insights and creating data visualization.
+I am a researcher with over 8 years of experience in research and providing insights, utilizing both quantitative and qualitative approaches. I have worked on various data analysis projects and building dashboards using tools like Power BI, Excel, Python, and MySQL. I specialize in transforming complex data sets into actionable insights and creating data visualization.
 
 ## Work Experience
+### DATA ANALYST
+**BOSTON MAKMUR GEMILANG (BMG) INDONESIA (JUL 2025 – NOW)**
+- Conducted analysis of sales performance and customer behavior across multiple products using K-Means clustering and Customer Decision Tree methodologies.
+-	Optimized price elasticity calculations to enhance accuracy and usability within Power BI dashboards.
+-	Designed and developed Power BI dashboards to monitor clothing sales performance.
+-	Built comprehensive Power BI dashboards to track and analyze key metrics for a short drama application, including viewing behavior, user engagement, and revenue performance.
+
 ### RESEARCH AND DEVELOPMENT PROGRAMMING
-**PT TRANS NEWS CORPORA – CNN INDONESIA (MAR 2019 – NOW)**
+**PT TRANS NEWS CORPORA – CNN INDONESIA (MAR 2019 – JUL 2025)**
 - Monitor and analyze up to 4 TV programs
 -	Process and analyze TV rating and share daily
 -	Create report based on analysis data
@@ -97,4 +104,3 @@ The tools used in this project is ***Jupyter Notebook***
 7. MySQL
 8. Machine Learning
 9. Power BI
-10. Tableau
